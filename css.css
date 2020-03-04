@@ -1,0 +1,21 @@
+<style>
+            header{
+              color: black;
+              font-family: Impact;
+            }
+            body{
+                text-align: center;
+                color: white;
+                padding: 5px;
+                font-size: 18px;
+            }
+
+            button{
+                text-align: center;
+                color: white;
+                background-color: rgb(15, 211, 32);
+                padding: 5px;
+                font-size: 18px;
+                font-family: Impact;
+            }
+    </style>
